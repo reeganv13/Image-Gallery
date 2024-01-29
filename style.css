@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(73, 73, 73);
+    padding-left: 7%;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.whole{
+    display: flex;
+    
+    flex-wrap: wrap;
+    
+    
+}
+.whole div{
+    margin-top: 30px;
+    flex-basis: 23%;
+    flex-grow: 1;
+    
+}
